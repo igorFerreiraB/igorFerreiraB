@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  🛠 Frameworks: Django, Laravel.
+  🛠 Frameworks: Laravel, Django.
 </p>
 
 <p align="left">
