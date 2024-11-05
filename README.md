@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/1156683291240448062/1303343181106122782/php.png?ex=672b686d&is=672a16ed&hm=fdc6b3333f788e3092dfcd4109ba958d9b91d8219d087c02f67de9c00da5ceb5&" alt="coisa ruim voltou" min-width="200px" max-width="200px" width="200px" align="right">
+<img src="https://cdn.discordapp.com/attachments/1156683291240448062/1303343181106122782/php.png?ex=672b686d&is=672a16ed&hm=fdc6b3333f788e3092dfcd4109ba958d9b91d8219d087c02f67de9c00da5ceb5&" alt="coisa ruim voltou" min-width="200px" max-width="200px" width="200px" align="left">
 
 <p align="left"> 
   Igor Ferreira, desenvolvedor <strong>backend</strong>.
