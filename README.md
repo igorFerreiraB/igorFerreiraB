@@ -3,9 +3,9 @@
 </p>
 
 <p align="left">
-  💻 Linguagens: Python, PHP, Javascript.
+  💻 Linguagens: Python, PHP, Go, Javascript.
 </p>
 
 <p align="left">
-  🛠 Frameworks: Laravel, Django.
+  🛠 Frameworks: Laravel, Django, Node.js.
 </p>
