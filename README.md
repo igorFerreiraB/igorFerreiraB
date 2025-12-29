@@ -1,5 +1,5 @@
 <p align="left"> 
-  Igor Ferreira, desenvolvedor <strong>backend</strong>.
+  Igor Ferreira, desenvolvedor <strong>Web</strong>.
 </p>
 
 <p align="left">
